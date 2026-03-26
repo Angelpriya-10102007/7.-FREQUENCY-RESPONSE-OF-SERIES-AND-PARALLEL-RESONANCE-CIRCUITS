@@ -24,19 +24,23 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
+<img width="1080" height="1358" alt="image" src="https://github.com/user-attachments/assets/0afc6a7b-d8dd-4e02-b20a-9979c89abd8c" />
+
 
 
 
 
 **Model graph:**
 
+<img width="1080" height="1361" alt="image" src="https://github.com/user-attachments/assets/61c611e3-ddf5-4311-ae0d-835e29f7d89b" />
+<img width="1183" height="729" alt="image" src="https://github.com/user-attachments/assets/217ff8bf-b3a7-4ccd-a241-31021de4493b" />
 
 
 
 **TABULATION:**
+<img width="1277" height="774" alt="image" src="https://github.com/user-attachments/assets/1907aab4-2ec5-43c9-9df2-0d5fb7244c88" />
 
 
-**Calculation:**
 
 
 
@@ -53,12 +57,14 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+<img width="1472" height="1080" alt="image" src="https://github.com/user-attachments/assets/71da549b-a4d4-47d2-8166-c0f93a16c0ce" />
 
 **RESULT:**
 
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
 
 
+<img width="1584" height="576" alt="image" src="https://github.com/user-attachments/assets/a5936a92-38b4-4236-a137-9a6163d7c019" />
 
 
 
